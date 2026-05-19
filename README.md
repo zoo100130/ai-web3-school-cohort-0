@@ -76,6 +76,9 @@ ai-web3-school-cohort-0/
 │  └─ handbook-feedback.md
 ├─ scripts/
 │  └─ sync-wcb-notes.ps1
+├─ .github/
+│  └─ workflows/
+│     └─ sync-wcb-notes.yml
 └─ docs/
    ├─ local-github-guide.md
    └─ sync-wcb-notes-guide.md
@@ -118,6 +121,7 @@ I manually confirmed:
 | --- | --- |
 | 2026-05-19 | Initialized public learning repository, created first daily note, drafted Handbook feedback, and pushed the first commit. |
 | 2026-05-19 | Added WCB notes sync guide and local sync script for updating `daily/` from `notes/zoo100130.md`. |
+| 2026-05-19 | Added GitHub Actions auto-sync for WCB notes. |
 
 ## Commit Record / 提交記錄
 

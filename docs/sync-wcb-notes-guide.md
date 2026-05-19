@@ -165,12 +165,45 @@ git diff
 
 目前偏好：這個學習倉庫的同步與文件維護，預設由 Agent 在完成 `git diff` 與隱私檢查後 commit 並 push 到 GitHub；如果想先停在本機，請明確說「先不要 push」。
 
+## GitHub Actions 自動同步
+
+本倉庫已加入 GitHub Actions workflow：
+
+```text
+.github/workflows/sync-wcb-notes.yml
+```
+
+它會：
+
+- 每 30 分鐘自動檢查一次 WCB `notes/zoo100130.md`。
+- 也可以在 GitHub 的 Actions 頁面手動執行。
+- 執行 `scripts/sync-wcb-notes.ps1`。
+- 如果 `daily/` 有變化，就由 `github-actions[bot]` 自動 commit 並 push。
+- 如果沒有變化，就不產生 commit。
+
+手動觸發方式：
+
+1. 打開自己的 repo。
+2. 進入 `Actions`。
+3. 選擇 `Sync WCB Notes`。
+4. 點 `Run workflow`。
+
+注意：因為 GitHub 不會在外部 repo 更新時直接觸發自己的 repo，所以這裡使用「定時檢查」來達成接近自動同步的效果。
+
 ## 建議日常流程
 
 1. 先在 WCB 共學倉庫更新 `notes/zoo100130.md`。
-2. 回到自己的 repo。
-3. 執行 `.\scripts\sync-wcb-notes.ps1`。
-4. 看 `git diff`，確認同步內容正確。
-5. 確認沒有敏感資料。
-6. `git add`、`git commit`、`git push`。
-7. 打開 GitHub daily 目錄確認內容已更新。
+2. 等待 GitHub Actions 自動同步，通常最多約 30 分鐘。
+3. 如需立刻同步，到自己的 repo 的 Actions 頁面手動執行 `Sync WCB Notes`。
+4. 打開 GitHub daily 目錄確認內容已更新。
+
+本機手動同步仍可使用：
+
+```powershell
+.\scripts\sync-wcb-notes.ps1
+git status
+git diff
+git add README.md daily/
+git commit -m "Sync WCB daily notes"
+git push
+```
