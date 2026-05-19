@@ -22,6 +22,7 @@ AI x Web3 School Cohort 0 個人學習倉庫，用於記錄學習規劃、每日
 | Learning Agent Prompt | https://aiweb3.school/learning-agent.zh.txt |
 | 12-Week Learning Plan | [learning-plan.md](learning-plan.md) |
 | Beginner GitHub Guide | [docs/local-github-guide.md](docs/local-github-guide.md) |
+| WCB Notes Sync Guide | [docs/sync-wcb-notes-guide.md](docs/sync-wcb-notes-guide.md) |
 | Hackathon Idea Bank | [hackathon/idea-bank.md](hackathon/idea-bank.md) |
 
 ## Learning Profile / 學習概況
@@ -55,6 +56,7 @@ ai-web3-school-cohort-0/
 ├─ profile.md
 ├─ learning-plan.md
 ├─ daily/
+│  ├─ 2026-05-18.md
 │  └─ 2026-05-19.md
 ├─ tasks/
 │  └─ README.md
@@ -72,8 +74,11 @@ ai-web3-school-cohort-0/
 │  ├─ task-note.md
 │  ├─ experiment-note.md
 │  └─ handbook-feedback.md
+├─ scripts/
+│  └─ sync-wcb-notes.ps1
 └─ docs/
-   └─ local-github-guide.md
+   ├─ local-github-guide.md
+   └─ sync-wcb-notes-guide.md
 ```
 
 ## How I Use This Repo / 使用方式
@@ -112,6 +117,7 @@ I manually confirmed:
 | Date | Update |
 | --- | --- |
 | 2026-05-19 | Initialized public learning repository, created first daily note, drafted Handbook feedback, and pushed the first commit. |
+| 2026-05-19 | Added WCB notes sync guide and local sync script for updating `daily/` from `notes/zoo100130.md`. |
 
 ## Commit Record / 提交記錄
 
@@ -130,4 +136,3 @@ Before publishing anything, I check:
 - [ ] No screenshots showing sensitive account, wallet, or personal information.
 - [ ] Course content is summarized in my own words.
 - [ ] Public links are intentional and safe to share.
-
