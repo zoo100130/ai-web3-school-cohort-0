@@ -7,11 +7,11 @@
 
 Personal learning repository for AI x Web3 School Cohort 0.
 
-AI x Web3 School Cohort 0 个人学习仓库，用于记录学习计划、每日打卡、任务证明、实验记录、Handbook feedback 和 Hackathon 准备。
+AI x Web3 School Cohort 0 個人學習倉庫，用於記錄學習規劃、每日打卡、任務證明、實驗記錄、Handbook feedback 和 Hackathon 準備。
 
 > Privacy first: this public repository must not contain API keys, private keys, seed phrases, tokens, `.env` files, private meeting links, personal ID documents, or sensitive screenshots.
 >
-> 隐私优先：本公开仓库不得包含 API Key、私钥、助记词、token、`.env` 文件、未公开会议链接、身份证件或含敏感信息的截图。
+> 隱私優先：本公開倉庫不得包含 API Key、私鑰、助記詞、token、`.env` 檔案、未公開會議連結、身份證件或含敏感資訊的截圖。
 
 ## Quick Links / 快速入口
 
@@ -24,21 +24,21 @@ AI x Web3 School Cohort 0 个人学习仓库，用于记录学习计划、每日
 | Beginner GitHub Guide | [docs/local-github-guide.md](docs/local-github-guide.md) |
 | Hackathon Idea Bank | [hackathon/idea-bank.md](hackathon/idea-bank.md) |
 
-## Learning Profile / 学习画像
+## Learning Profile / 學習概況
 
 | Area | Current Level | Notes |
 | --- | --- | --- |
-| AI | Basic beginner / 基础入门 | Learn by using tools, examples, and small experiments. |
-| Web3 | Basic beginner / 基础入门 | Build vocabulary, wallet safety awareness, and onchain product intuition. |
-| Programming | Basic beginner / 基础入门 | Practice through small tasks and clear documentation. |
-| Main Track | Product research + Hackathon / 产品研究 + Hackathon | Focus on user problems, product insight, and small demos. |
-| Output | Chinese + English / 中英双语 | Practice bilingual learning notes and project communication. |
+| AI | Basic beginner / 基礎入門 | Learn by using tools, examples, and small experiments. |
+| Web3 | Basic beginner / 基礎入門 | Build vocabulary, wallet safety awareness, and onchain product intuition. |
+| Programming | Basic beginner / 基礎入門 | Practice through small tasks and clear documentation. |
+| Main Track | Product research + Hackathon / 產品研究 + Hackathon | Focus on user problems, product insight, and small demos. |
+| Output | Chinese + English / 中英雙語 | Practice bilingual learning notes and project communication. |
 
-## Week 1 Goals / 第一周目标
+## Week 1 Goals / 第一週目標
 
 Week 1 focuses on setup, safety, and a stable learning rhythm.
 
-第一周重点是完成环境初始化、安全意识建立，以及形成稳定的学习记录节奏。
+第一週重點是完成環境初始化、安全意識建立，以及形成穩定的學習記錄節奏。
 
 - Set up this GitHub learning repository.
 - Learn basic Git workflow: `status`, `add`, `commit`, `push`.
@@ -47,7 +47,7 @@ Week 1 focuses on setup, safety, and a stable learning rhythm.
 - Build a beginner privacy checklist for public learning logs.
 - Start a first Hackathon idea bank.
 
-## Repository Structure / 仓库结构
+## Repository Structure / 倉庫結構
 
 ```text
 ai-web3-school-cohort-0/
@@ -84,11 +84,11 @@ ai-web3-school-cohort-0/
 4. Save task evidence in `tasks/`, experiments in `experiments/`, and feedback drafts in `handbook-feedback/`.
 5. Review privacy before every commit and push.
 
-## Learning Agent Setup / Learning Agent 初始化说明
+## Learning Agent Setup / Learning Agent 初始化說明
 
 This repository was initialized with help from an AI Learning Agent.
 
-本仓库由 AI Learning Agent 协助初始化。
+本倉庫由 AI Learning Agent 協助初始化。
 
 The Agent helped:
 
@@ -107,13 +107,13 @@ I manually confirmed:
 - GitHub repository creation;
 - pushing the `main` branch to GitHub.
 
-## Current Progress / 当前进度
+## Current Progress / 目前進度
 
 | Date | Update |
 | --- | --- |
 | 2026-05-19 | Initialized public learning repository, created first daily note, drafted Handbook feedback, and pushed the first commit. |
 
-## Commit Record / 提交记录
+## Commit Record / 提交記錄
 
 Initial commit:
 
@@ -121,7 +121,7 @@ Initial commit:
 266fd6d Initialize AI Web3 School learning repo
 ```
 
-## Safety Checklist / 安全检查清单
+## Safety Checklist / 安全檢查清單
 
 Before publishing anything, I check:
 

@@ -1,8 +1,8 @@
-# Task Note / 任务记录
+# Task Note / 任務記錄
 
-Task date / 任务日期: YYYY-MM-DD
+Task date / 任務日期: YYYY-MM-DD
 
-## Task / 任务
+## Task / 任務
 
 中文：
 
@@ -12,31 +12,31 @@ English:
 
 - 
 
-## My Steps / 我的步骤
+## My Steps / 我的步驟
 
 1. 
 2. 
 3. 
 
-## Result / 结果
+## Result / 結果
 
 中文：
 
 English:
 
-## Evidence / 证明
+## Evidence / 證明
 
 - Link:
 - Screenshot:
 - Commit:
 
-## Reflection / 复盘
+## Reflection / 回顧
 
 中文：
 
 English:
 
-## Privacy Check / 隐私检查
+## Privacy Check / 隱私檢查
 
 - [ ] No secrets included.
 - [ ] No private course content copied.

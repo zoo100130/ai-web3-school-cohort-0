@@ -1,10 +1,10 @@
-# Handbook Feedback Workflow / Handbook 反馈流程
+# Handbook Feedback Workflow / Handbook 回饋流程
 
 This folder stores feedback drafts for the AI x Web3 School Handbook.
 
-本目录用于沉淀 AI x Web3 School Handbook 的反馈草稿。
+本目錄用於沉淀 AI x Web3 School Handbook 的回饋草稿。
 
-## Feedback Principles / 反馈原则
+## Feedback Principles / 回饋原則
 
 1. Be specific: include the page, section, and user context.
 2. Be beginner-aware: explain why the issue matters for a new learner.
@@ -21,7 +21,7 @@ This folder stores feedback drafts for the AI x Web3 School Handbook.
 5. Submit through the official feedback channel when available.
 6. Update the status in the feedback note.
 
-## Feedback Template / 反馈模板
+## Feedback Template / 回饋模板
 
 Use:
 

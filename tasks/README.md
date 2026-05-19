@@ -1,8 +1,8 @@
-# Tasks / 课程任务
+# Tasks / 課程任務
 
 Use this folder to document course tasks and proof of completion.
 
-本目录用于记录课程任务和完成证明。
+本目錄用於記錄課程任務和完成證明。
 
 Recommended naming:
 

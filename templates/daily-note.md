@@ -2,36 +2,36 @@
 
 Date / 日期: YYYY-MM-DD
 
-## Today's Course Task / 今日课程任务
+## Today's Course Task / 今日課程任務
 
 - WCB task link or title:
 - Handbook section:
 
-## What I Learned / 我学到了什么
+## What I Learned / 我學到了什麼
 
 中文：
 
 English:
 
-## What I Built or Tried / 我完成或尝试了什么
+## What I Built or Tried / 我完成或嘗試了什麼
 
 中文：
 
 English:
 
-## Proof or Links / 证明材料或链接
+## Proof or Links / 證明材料或連結
 
 - Task note:
 - Experiment:
 - Screenshot or external link:
 
-## Questions / 问题
+## Questions / 問題
 
 中文：
 
 English:
 
-## Product Research Insight / 产品研究观察
+## Product Research Insight / 產品研究觀察
 
 中文：
 
@@ -43,7 +43,7 @@ English:
 
 English:
 
-## Handbook Feedback Candidate / Handbook 反馈候选
+## Handbook Feedback Candidate / Handbook 回饋候選
 
 - Page or section:
 - What confused me:
@@ -55,7 +55,7 @@ English:
 
 English:
 
-## Privacy Check / 隐私检查
+## Privacy Check / 隱私檢查
 
 - [ ] No private key, seed phrase, or API key.
 - [ ] No private account screenshots.

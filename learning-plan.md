@@ -1,17 +1,17 @@
-# 12-Week Learning Plan / 12 周学习计划
+# 12-Week Learning Plan / 12 週學習規劃
 
 This plan is beginner-friendly and optimized for product research plus hackathon preparation.
 
-本计划面向 AI、Web3、编程都处于基础阶段的学习者，重点服务产品研究与 Hackathon 准备。
+本規劃面向 AI、Web3、程式設計都處於基礎階段的學習者，重點服務產品研究與 Hackathon 準備。
 
-## Weekly Rhythm / 每周节奏
+## Weekly Rhythm / 每週節奏
 
 - Daily: WCB course task, Handbook reading, bilingual check-in.
 - 3 times per week: one small AI/Web3 experiment or research note.
 - Weekly: one reflection, one product insight, one hackathon idea update.
 - Before public posting: privacy check and source check.
 
-## Week 1: Setup and Safety / 第 1 周：环境与安全
+## Week 1: Setup and Safety / 第 1 週：環境與安全
 
 - Set up GitHub learning repository.
 - Learn Git basics: status, add, commit, push.
@@ -26,7 +26,7 @@ Deliverables:
 - GitHub local sync guide
 - wallet and privacy safety note
 
-## Week 2: AI x Web3 Landscape / 第 2 周：AI x Web3 全局认知
+## Week 2: AI x Web3 Landscape / 第 2 週：AI x Web3 全域認知
 
 - Map major AI x Web3 themes: agents, data, compute, identity, DeFi, creator economy.
 - Pick 3 projects to research.
@@ -38,7 +38,7 @@ Deliverables:
 - 1 comparison table
 - 1 bilingual reflection
 
-## Week 3: Product Research Basics / 第 3 周：产品研究基础
+## Week 3: Product Research Basics / 第 3 週：產品研究基礎
 
 - Learn how to describe a user, problem, current behavior, and product value.
 - Practice product teardown with one Web3 product.
@@ -50,7 +50,7 @@ Deliverables:
 - 1 user problem map
 - updated hackathon idea list
 
-## Week 4: Wallets, Onchain UX, and Trust / 第 4 周：钱包、链上体验与信任
+## Week 4: Wallets, Onchain UX, and Trust / 第 4 週：錢包、鏈上體驗與信任
 
 - Understand wallet onboarding and transaction flow.
 - Analyze where beginners get stuck.
@@ -62,7 +62,7 @@ Deliverables:
 - wallet safety checklist
 - one product improvement proposal
 
-## Week 5: AI Agents and Automation / 第 5 周：AI Agent 与自动化
+## Week 5: AI Agents and Automation / 第 5 週：AI Agent 與自動化
 
 - Learn how AI agents plan, retrieve context, generate outputs, and require human confirmation.
 - Design a small agent workflow for learning or research.
@@ -74,7 +74,7 @@ Deliverables:
 - experiment note
 - Handbook feedback draft if onboarding can be improved
 
-## Week 6: Data, Content, and Community / 第 6 周：数据、内容与社区
+## Week 6: Data, Content, and Community / 第 6 週：資料、內容與社區
 
 - Learn how Web3 products use public data, dashboards, and community signals.
 - Create one lightweight dashboard or research table.
@@ -86,7 +86,7 @@ Deliverables:
 - insight note
 - weekly reflection
 
-## Week 7: Hackathon Problem Selection / 第 7 周：Hackathon 问题选择
+## Week 7: Hackathon Problem Selection / 第 7 週：Hackathon 問題選擇
 
 - Convert research observations into hackathon problem statements.
 - Score ideas by user pain, feasibility, demo quality, and learning value.
@@ -98,7 +98,7 @@ Deliverables:
 - problem statement
 - success criteria
 
-## Week 8: Hackathon Prototype Plan / 第 8 周：Hackathon 原型计划
+## Week 8: Hackathon Prototype Plan / 第 8 週：Hackathon 原型規劃
 
 - Define target user and core workflow.
 - Decide the smallest demo that proves the idea.
@@ -110,7 +110,7 @@ Deliverables:
 - prototype plan
 - pitch outline
 
-## Week 9: Build and Test / 第 9 周：构建与测试
+## Week 9: Build and Test / 第 9 週：建構與測試
 
 - Build a tiny prototype or clickable demo.
 - Test with yourself or 1-2 peers.
@@ -122,7 +122,7 @@ Deliverables:
 - demo notes
 - revised pitch
 
-## Week 10: Feedback and Polish / 第 10 周：反馈与打磨
+## Week 10: Feedback and Polish / 第 10 週：回饋與打磨
 
 - Improve narrative, UI, workflow, and documentation.
 - Prepare submission materials.
@@ -134,7 +134,7 @@ Deliverables:
 - README for hackathon project
 - feedback notes
 
-## Week 11: Submission Prep / 第 11 周：提交准备
+## Week 11: Submission Prep / 第 11 週：提交準備
 
 - Finalize demo, pitch, screenshots, and links.
 - Check repository privacy.
@@ -146,7 +146,7 @@ Deliverables:
 - pitch script
 - demo link list
 
-## Week 12: Reflection and Portfolio / 第 12 周：复盘与作品集
+## Week 12: Reflection and Portfolio / 第 12 週：回顧與作品集
 
 - Summarize learning outcomes.
 - Select best notes and experiments.

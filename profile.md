@@ -1,6 +1,6 @@
-# Learning Profile / 学习画像
+# Learning Profile / 學習概況
 
-## Basic Information / 基本信息
+## Basic Information / 基本資訊
 
 - Cohort: AI x Web3 School Cohort 0
 - Repository: `ai-web3-school-cohort-0`
@@ -8,7 +8,7 @@
 - Main directions: product research and hackathon
 - Output style: bilingual Chinese and English
 
-## Current Level / 当前基础
+## Current Level / 目前基礎
 
 - AI: basic beginner level. I can learn concepts and use tools with guidance.
 - Web3: basic beginner level. I need to build vocabulary, mental models, and hands-on familiarity.
@@ -16,11 +16,11 @@
 
 中文：
 
-- AI：基础入门，需要通过工具使用、案例拆解和小实验建立理解。
-- Web3：基础入门，需要先补齐术语、链上交互、钱包、安全、协议和生态认知。
-- 编程：基础入门，需要用小任务逐步练习，不追求一开始就写复杂项目。
+- AI：基礎入門，需要通過工具使用、案例拆解和小實驗建立理解。
+- Web3：基礎入門，需要先補齊術語、鏈上互動、錢包、安全、協議和生態認知。
+- 程式設計：基礎入門，需要用小任務逐步練習，不追求一開始就寫複雜專案。
 
-## Learning Goals / 学习目标
+## Learning Goals / 學習目標
 
 1. Build a working understanding of AI x Web3 product opportunities.
 2. Learn how to document research, experiments, and task evidence in public.
@@ -28,7 +28,7 @@
 4. Practice bilingual communication for product thinking, research notes, and project pitching.
 5. Learn safe GitHub habits: commit, push, review, and avoid leaking secrets.
 
-## Boundaries / 边界
+## Boundaries / 邊界
 
 - I will not publish private keys, seed phrases, API keys, or account secrets.
 - I will not copy paid or private course content into this repository.

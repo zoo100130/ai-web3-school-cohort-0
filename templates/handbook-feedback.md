@@ -1,8 +1,8 @@
-# Handbook Feedback / Handbook 反馈
+# Handbook Feedback / Handbook 回饋
 
 Date / 日期: YYYY-MM-DD
 
-## Page or Section / 页面或章节
+## Page or Section / 頁面或章節
 
 - Link:
 - Section title:
@@ -19,13 +19,13 @@ English:
 
 English:
 
-## Suggested Improvement / 修改建议
+## Suggested Improvement / 修改建議
 
 中文：
 
 English:
 
-## Why It Helps Beginners / 为什么对新手有帮助
+## Why It Helps Beginners / 為什麼對新手有幫助
 
 中文：
 
@@ -33,13 +33,13 @@ English:
 
 ## Severity / 重要程度
 
-- [ ] Typo or wording / 错字或表达
+- [ ] Typo or wording / 錯字或表達
 - [ ] Missing context / 缺少背景
-- [ ] Beginner confusion / 新手理解障碍
-- [ ] Broken link or technical issue / 链接或技术问题
-- [ ] Process improvement / 流程改进
+- [ ] Beginner confusion / 新手理解障礙
+- [ ] Broken link or technical issue / 連結或技術問題
+- [ ] Process improvement / 流程改進
 
-## Status / 状态
+## Status / 狀態
 
 - [ ] Drafted
 - [ ] Reviewed

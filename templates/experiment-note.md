@@ -1,45 +1,45 @@
-# Experiment Note / 实验记录
+# Experiment Note / 實驗記錄
 
-Experiment date / 实验日期: YYYY-MM-DD
+Experiment date / 實驗日期: YYYY-MM-DD
 
-## Question / 问题
-
-中文：
-
-English:
-
-## Hypothesis / 假设
+## Question / 問題
 
 中文：
 
 English:
 
-## Setup / 设置
+## Hypothesis / 假設
+
+中文：
+
+English:
+
+## Setup / 設定
 
 - Tool:
 - Account or network:
 - Input:
 - Safety note:
 
-## Steps / 步骤
+## Steps / 步驟
 
 1. 
 2. 
 3. 
 
-## Observations / 观察
+## Observations / 觀察
 
 中文：
 
 English:
 
-## Result / 结果
+## Result / 結果
 
 中文：
 
 English:
 
-## Product Insight / 产品洞察
+## Product Insight / 產品洞察
 
 中文：
 
@@ -50,4 +50,3 @@ English:
 中文：
 
 English:
-
