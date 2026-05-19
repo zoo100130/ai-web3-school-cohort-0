@@ -1,60 +1,133 @@
-# AI x Web3 School Cohort 0 Learning Repository
+# AI x Web3 School Cohort 0
 
-This is my public learning repository for AI x Web3 School Cohort 0.
+![Learning](https://img.shields.io/badge/status-learning-2ea44f)
+![Track](https://img.shields.io/badge/track-product%20research%20%2B%20hackathon-blue)
+![Language](https://img.shields.io/badge/output-CN%20%2B%20EN-purple)
+![Visibility](https://img.shields.io/badge/repo-public-orange)
 
-本仓库用于记录我在 AI x Web3 School Cohort 0 的学习过程，包括每日学习日志、任务证明、实验记录、Handbook feedback、Hackathon 准备和最终提交资料。
+Personal learning repository for AI x Web3 School Cohort 0.
 
-## Links / 相关链接
+AI x Web3 School Cohort 0 个人学习仓库，用于记录学习计划、每日打卡、任务证明、实验记录、Handbook feedback 和 Hackathon 准备。
 
-- AI x Web3 School Handbook: https://aiweb3.school/zh/handbook/
-- WCB Course Learning Page: https://web3career.build/zh/programs/AI-Web3-School#tab=learning
-- Learning Agent Prompt: https://aiweb3.school/learning-agent.zh.txt
+> Privacy first: this public repository must not contain API keys, private keys, seed phrases, tokens, `.env` files, private meeting links, personal ID documents, or sensitive screenshots.
+>
+> 隐私优先：本公开仓库不得包含 API Key、私钥、助记词、token、`.env` 文件、未公开会议链接、身份证件或含敏感信息的截图。
+
+## Quick Links / 快速入口
+
+| Item | Link |
+| --- | --- |
+| AI x Web3 School Handbook | https://aiweb3.school/zh/handbook/ |
+| WCB Course Learning Page | https://web3career.build/zh/programs/AI-Web3-School#tab=learning |
+| Learning Agent Prompt | https://aiweb3.school/learning-agent.zh.txt |
+| 12-Week Learning Plan | [learning-plan.md](learning-plan.md) |
+| Beginner GitHub Guide | [docs/local-github-guide.md](docs/local-github-guide.md) |
+| Hackathon Idea Bank | [hackathon/idea-bank.md](hackathon/idea-bank.md) |
 
 ## Learning Profile / 学习画像
 
-- AI foundation / AI 基础: beginner with basic understanding / 基础
-- Web3 foundation / Web3 基础: beginner with basic understanding / 基础
-- Programming foundation / 编程基础: beginner with basic understanding / 基础
-- Main tracks / 主要方向: product research and hackathon / 产品研究与 Hackathon
-- Output language / 输出语言: bilingual Chinese and English / 中英双语
+| Area | Current Level | Notes |
+| --- | --- | --- |
+| AI | Basic beginner / 基础入门 | Learn by using tools, examples, and small experiments. |
+| Web3 | Basic beginner / 基础入门 | Build vocabulary, wallet safety awareness, and onchain product intuition. |
+| Programming | Basic beginner / 基础入门 | Practice through small tasks and clear documentation. |
+| Main Track | Product research + Hackathon / 产品研究 + Hackathon | Focus on user problems, product insight, and small demos. |
+| Output | Chinese + English / 中英双语 | Practice bilingual learning notes and project communication. |
 
-## Privacy Reminder / 隐私提醒
+## Week 1 Goals / 第一周目标
 
-This is planned as a public repository. I will avoid publishing private keys, seed phrases, API keys, wallet secrets, personal ID documents, phone numbers, addresses, screenshots with private account data, or any information that should not be public.
+Week 1 focuses on setup, safety, and a stable learning rhythm.
 
-本仓库计划设为公开仓库。请不要提交私钥、助记词、API key、钱包敏感信息、身份证件、电话号码、地址、含个人账户信息的截图，或任何不适合公开的资料。
+第一周重点是完成环境初始化、安全意识建立，以及形成稳定的学习记录节奏。
 
-## Repository Map / 目录说明
+- Set up this GitHub learning repository.
+- Learn basic Git workflow: `status`, `add`, `commit`, `push`.
+- Create the first bilingual daily check-in.
+- Read Handbook onboarding materials and record confusing points.
+- Build a beginner privacy checklist for public learning logs.
+- Start a first Hackathon idea bank.
 
-- `profile.md`: personal learning profile and boundaries / 个人学习画像与边界
-- `learning-plan.md`: 12-week learning plan / 12 周学习计划
-- `daily/`: daily check-in notes / 每日打卡记录
-- `tasks/`: task notes and evidence / 课程任务记录与证明
-- `experiments/`: AI and Web3 experiments / AI 与 Web3 实验
-- `handbook-feedback/`: Handbook feedback workflow and notes / Handbook 反馈流程与记录
-- `hackathon/`: hackathon preparation and project ideas / Hackathon 准备与项目想法
-- `submissions/`: submission drafts and final links / 提交草稿与最终链接
-- `templates/`: reusable note templates / 可复用模板
-- `docs/local-github-guide.md`: beginner guide for syncing local files with GitHub / 本地与 GitHub 同步新手指南
+## Repository Structure / 仓库结构
 
-## Current Routine / 当前节奏
+```text
+ai-web3-school-cohort-0/
+├─ README.md
+├─ profile.md
+├─ learning-plan.md
+├─ daily/
+│  └─ 2026-05-19.md
+├─ tasks/
+│  └─ README.md
+├─ experiments/
+│  └─ README.md
+├─ handbook-feedback/
+│  ├─ README.md
+│  └─ 2026-05-19-onboarding-agent-workflow.md
+├─ hackathon/
+│  └─ idea-bank.md
+├─ submissions/
+│  └─ README.md
+├─ templates/
+│  ├─ daily-note.md
+│  ├─ task-note.md
+│  ├─ experiment-note.md
+│  └─ handbook-feedback.md
+└─ docs/
+   └─ local-github-guide.md
+```
 
-1. Read the WCB learning tab and Handbook for the day.
-2. Copy `templates/daily-note.md` into `daily/YYYY-MM-DD.md`.
-3. Write bilingual notes: what I learned, what I built, what confused me, and what I will do next.
-4. Save task proof in `tasks/`, experiment notes in `experiments/`, and feedback drafts in `handbook-feedback/`.
-5. Commit and push after checking that no private information is included.
+## How I Use This Repo / 使用方式
 
-## AI Learning Agent Workflow / AI 学习代理协作方式
+1. Check the WCB learning task and Handbook section for the day.
+2. Copy [templates/daily-note.md](templates/daily-note.md) into `daily/YYYY-MM-DD.md`.
+3. Write what I learned, built, questioned, and will do next in Chinese and English.
+4. Save task evidence in `tasks/`, experiments in `experiments/`, and feedback drafts in `handbook-feedback/`.
+5. Review privacy before every commit and push.
 
-My AI Learning Agent helps me:
+## Learning Agent Setup / Learning Agent 初始化说明
 
-- turn course tasks into beginner-friendly action steps;
-- create bilingual daily check-in drafts;
-- maintain this repository structure;
-- prepare product research and hackathon materials;
-- draft Handbook feedback with clear context and suggestions;
-- remind me to verify privacy before committing or pushing.
+This repository was initialized with help from an AI Learning Agent.
 
-The human learner remains responsible for learning, checking, platform submission, GitHub authorization, and final public content.
+本仓库由 AI Learning Agent 协助初始化。
+
+The Agent helped:
+
+- create the repository structure;
+- draft the README, profile, 12-week plan, daily note, and templates;
+- create a Handbook feedback workflow;
+- create a beginner guide for syncing local files with GitHub;
+- remind me to check privacy before committing and pushing.
+
+I manually confirmed:
+
+- the repository name and public visibility;
+- local Git initialization;
+- the first commit;
+- GitHub CLI authorization;
+- GitHub repository creation;
+- pushing the `main` branch to GitHub.
+
+## Current Progress / 当前进度
+
+| Date | Update |
+| --- | --- |
+| 2026-05-19 | Initialized public learning repository, created first daily note, drafted Handbook feedback, and pushed the first commit. |
+
+## Commit Record / 提交记录
+
+Initial commit:
+
+```text
+266fd6d Initialize AI Web3 School learning repo
+```
+
+## Safety Checklist / 安全检查清单
+
+Before publishing anything, I check:
+
+- [ ] No API keys, private keys, seed phrases, tokens, or `.env` files.
+- [ ] No private meeting links or private course materials copied directly.
+- [ ] No screenshots showing sensitive account, wallet, or personal information.
+- [ ] Course content is summarized in my own words.
+- [ ] Public links are intentional and safe to share.
 
