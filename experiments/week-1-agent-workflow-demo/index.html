@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Week 1 Agent Workflow Demo</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">AI x Web3 School / Week 1</p>
+        <h1>Agent Workflow Lab</h1>
+      </div>
+      <div class="status-pill" aria-label="selected concept">
+        LLM / workflow / agent
+      </div>
+    </header>
+
+    <main>
+      <section class="intro">
+        <div>
+          <h2>從「一句目標」到「可確認行動」</h2>
+          <p>
+            這個互動頁面用一個學習任務展示 agent 的基本工作流：理解目標、拆解步驟、使用工具、等待人工確認，最後產出可提交的學習紀錄。
+          </p>
+        </div>
+        <div class="concept-grid" aria-label="concept cards">
+          <article>
+            <span>LLM</span>
+            <p>產生文字、解釋概念、整理草稿，但本身不等於完整工作流。</p>
+          </article>
+          <article>
+            <span>Workflow</span>
+            <p>把任務拆成固定步驟，讓輸入、檢查和輸出更穩定。</p>
+          </article>
+          <article>
+            <span>Agent</span>
+            <p>在目標下規劃、使用工具、檢查狀態，並在高風險動作前等待確認。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="lab">
+        <div class="panel steps-panel">
+          <div class="panel-heading">
+            <h2>Workflow Steps</h2>
+            <p>點選步驟，看 agent 在每一階段做什麼。</p>
+          </div>
+          <div class="step-buttons" role="tablist" aria-label="Agent workflow steps">
+            <button class="step-button active" data-step="0" type="button">1</button>
+            <button class="step-button" data-step="1" type="button">2</button>
+            <button class="step-button" data-step="2" type="button">3</button>
+            <button class="step-button" data-step="3" type="button">4</button>
+            <button class="step-button" data-step="4" type="button">5</button>
+          </div>
+          <article class="step-card" aria-live="polite">
+            <p class="step-label" id="stepLabel">Step 1</p>
+            <h3 id="stepTitle">Read the goal</h3>
+            <p id="stepBody">
+              Agent 先讀懂學習者的目標、限制與輸出格式，避免一開始就亂做。
+            </p>
+            <div class="step-risk" id="stepRisk">Risk: misunderstanding the task</div>
+          </article>
+        </div>
+
+        <div class="panel demo-panel">
+          <div class="panel-heading">
+            <h2>Mini Agent Demo</h2>
+            <p>輸入學習目標，產生一個安全的 agent 行動草稿。</p>
+          </div>
+          <label for="goalInput">Learning goal / 學習目標</label>
+          <textarea id="goalInput" rows="4">我想理解 agent 如何幫我整理每日學習筆記，並避免把敏感資訊推到 GitHub。</textarea>
+          <button class="primary-button" id="generatePlan" type="button">Generate workflow</button>
+          <div class="output" id="planOutput" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="quiz-section">
+        <div class="panel">
+          <div class="panel-heading">
+            <h2>Quick Quiz</h2>
+            <p>選出比較安全的 agent 行為。</p>
+          </div>
+          <div class="quiz-options">
+            <button class="quiz-option" data-correct="false" type="button">
+              直接 push 到公開 GitHub，不檢查 diff。
+            </button>
+            <button class="quiz-option" data-correct="true" type="button">
+              先檢查 diff 和敏感資訊，再 commit / push。
+            </button>
+            <button class="quiz-option" data-correct="false" type="button">
+              把 private key 放進 README，方便日後查找。
+            </button>
+          </div>
+          <p class="quiz-result" id="quizResult" aria-live="polite"></p>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+

@@ -23,6 +23,7 @@ AI x Web3 School Cohort 0 個人學習倉庫，用於記錄學習規劃、每日
 | 12-Week Learning Plan | [learning-plan.md](learning-plan.md) |
 | Beginner GitHub Guide | [docs/local-github-guide.md](docs/local-github-guide.md) |
 | WCB Notes Sync Guide | [docs/sync-wcb-notes-guide.md](docs/sync-wcb-notes-guide.md) |
+| Week 1 Agent Workflow Demo | [experiments/week-1-agent-workflow-demo/](experiments/week-1-agent-workflow-demo/) |
 | Hackathon Idea Bank | [hackathon/idea-bank.md](hackathon/idea-bank.md) |
 
 ## Learning Profile / 學習概況
@@ -61,7 +62,12 @@ ai-web3-school-cohort-0/
 ├─ tasks/
 │  └─ README.md
 ├─ experiments/
-│  └─ README.md
+│  ├─ README.md
+│  └─ week-1-agent-workflow-demo/
+│     ├─ README.md
+│     ├─ index.html
+│     ├─ styles.css
+│     └─ script.js
 ├─ handbook-feedback/
 │  ├─ README.md
 │  └─ 2026-05-19-onboarding-agent-workflow.md
@@ -122,6 +128,7 @@ I manually confirmed:
 | 2026-05-19 | Initialized public learning repository, created first daily note, drafted Handbook feedback, and pushed the first commit. |
 | 2026-05-19 | Added WCB notes sync guide and local sync script for updating `daily/` from `notes/zoo100130.md`. |
 | 2026-05-19 | Added GitHub Actions auto-sync for WCB notes. |
+| 2026-05-20 | Added Week 1 interactive agent workflow demo. |
 
 ## Commit Record / 提交記錄
 
