@@ -58,7 +58,10 @@ ai-web3-school-cohort-0/
 ├─ learning-plan.md
 ├─ daily/
 │  ├─ 2026-05-18.md
-│  └─ 2026-05-19.md
+│  ├─ 2026-05-19.md
+│  ├─ 2026-05-20.md
+│  ├─ 2026-05-21.md
+│  └─ 2026-05-22.md
 ├─ tasks/
 │  └─ README.md
 ├─ experiments/
@@ -70,7 +73,8 @@ ai-web3-school-cohort-0/
 │     └─ script.js
 ├─ handbook-feedback/
 │  ├─ README.md
-│  └─ 2026-05-19-onboarding-agent-workflow.md
+│  ├─ 2026-05-19-onboarding-agent-workflow.md
+│  └─ 2026-05-22-wcb-to-personal-repo-flow.md
 ├─ hackathon/
 │  └─ idea-bank.md
 ├─ submissions/
@@ -129,6 +133,7 @@ I manually confirmed:
 | 2026-05-19 | Added WCB notes sync guide and local sync script for updating `daily/` from `notes/zoo100130.md`. |
 | 2026-05-19 | Added GitHub Actions auto-sync for WCB notes. |
 | 2026-05-20 | Added Week 1 interactive agent workflow demo. |
+| 2026-05-22 | Rechecked Learning Agent workflow and added a WCB-to-personal-repo Handbook feedback draft. |
 
 ## Commit Record / 提交記錄
 
