@@ -61,7 +61,9 @@ ai-web3-school-cohort-0/
 │  ├─ 2026-05-19.md
 │  ├─ 2026-05-20.md
 │  ├─ 2026-05-21.md
-│  └─ 2026-05-22.md
+│  ├─ 2026-05-22.md
+│  ├─ ...
+│  └─ 2026-05-28.md
 ├─ tasks/
 │  └─ README.md
 ├─ experiments/
@@ -76,6 +78,7 @@ ai-web3-school-cohort-0/
 │  ├─ 2026-05-19-onboarding-agent-workflow.md
 │  └─ 2026-05-22-wcb-to-personal-repo-flow.md
 ├─ hackathon/
+│  ├─ README.md
 │  └─ idea-bank.md
 ├─ submissions/
 │  └─ README.md
@@ -134,6 +137,7 @@ I manually confirmed:
 | 2026-05-19 | Added GitHub Actions auto-sync for WCB notes. |
 | 2026-05-20 | Added Week 1 interactive agent workflow demo. |
 | 2026-05-22 | Rechecked Learning Agent workflow and added a WCB-to-personal-repo Handbook feedback draft. |
+| 2026-05-28 | Reconnected local workspace to the GitHub repo and added a daily check-in draft for the Learning Agent workflow. |
 
 ## Commit Record / 提交記錄
 
